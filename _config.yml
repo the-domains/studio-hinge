@@ -1,14 +1,29 @@
+name: Studio Hinge
+favicon: null
 layout_spectrum: 0.4723404
+typography_spectrum: 0.5297872
+title: Studio Hinge
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1765957
-  lightness: 0.5
-  brandStrength: 0.4808511
   brandColors:
     - '#FFFFFF'
     - '#010100'
     - '#949393'
     - '#B6B5B4'
     - '#B59A65'
+  brandStrength: 0.4808511
+  lightness: 0.5
+  saturation: 0.1765957
   rhythmicContrast: 0.493617
-typography_spectrum: 0.5297872
-name: Studio Hinge
+purpose: []
