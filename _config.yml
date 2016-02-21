@@ -1,0 +1,14 @@
+layout_spectrum: 0.4723404
+color:
+  saturation: 0.1765957
+  lightness: 0.5
+  brandStrength: 0.4808511
+  brandColors:
+    - '#FFFFFF'
+    - '#010100'
+    - '#949393'
+    - '#B6B5B4'
+    - '#B59A65'
+  rhythmicContrast: 0.493617
+typography_spectrum: 0.5297872
+name: Studio Hinge
