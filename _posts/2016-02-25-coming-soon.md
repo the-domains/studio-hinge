@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-25T08:04:49.598Z'
+datePublished: '2016-03-28T19:05:47.159Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: coming soon...
-dateModified: '2016-02-21T20:42:07.165Z'
+dateModified: '2016-02-25T08:05:15.119Z'
 sourcePath: _posts/2016-02-25-coming-soon.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
