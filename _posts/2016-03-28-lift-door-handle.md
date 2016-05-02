@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:7e738c02-e266-4e10-bb84-8f57bacbc507'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T12:12:51.434Z'
-dateModified: '2016-05-02T12:06:45.601Z'
+datePublished: '2016-05-02T12:29:06.546Z'
+dateModified: '2016-05-02T12:26:45.454Z'
 author: []
 title: lift door handle
 sourcePath: _posts/2016-03-28-lift-door-handle.md
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: lift-door-handle/index.html
 _context: 'http://schema.org'
 _type: Article
 
