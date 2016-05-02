@@ -1,7 +1,7 @@
 name: Studio Hinge
 favicon: null
-layout_spectrum: 0.24836
-typography_spectrum: 0.06494
+layout_spectrum: 1
+typography_spectrum: 0
 title: Studio Hinge
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#323e3e'
     - '#ae9a8d'
     - '#d7bea8'
-  brandStrength: 0.4808511
-  lightness: 0.5
-  saturation: 0.1765957
-  rhythmicContrast: 0.493617
+  brandStrength: 0.8125
+  lightness: 0.6875
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
